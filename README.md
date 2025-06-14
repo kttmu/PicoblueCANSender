@@ -17,7 +17,7 @@ You'll need to register to access Cometa’s Dropbox.
 ## How to Use
 
 1. Place `PicoBlue.DaqSys.dll` in the same directory as the Python source code.  
-2. Edit the serial number in `can_transmitter.py` to match your device.  
+2. Edit the serial number in `sensor_interface.py` to match your device.  
 3. Connect the Kvaser CAN module to your PC, and run `main.py`.  
 4. Use a CAN receiver or logging tool such as CANalyzer to receive the data.
 
